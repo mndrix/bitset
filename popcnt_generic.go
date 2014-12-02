@@ -1,5 +1,3 @@
-// +build !amd64 appengine
-
 package bitset
 
 func popcntSlice(s []uint64) uint64 {
